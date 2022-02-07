@@ -2,6 +2,7 @@ CS152 Project Phase 3 - Code Generation
 ========================================
 
 [Home Page - Phase3 Code Generation Part1](https://www.cs.ucr.edu/~dtan004/proj3/phase3_code_generator.html)
+
 [Home Page - Phase3 Code Generation Part2](https://www.cs.ucr.edu/~dtan004/proj4/phase3_code_generator.html)
 
 
@@ -57,6 +58,7 @@ git push   # push all local commits to Github, this step may need your username 
 ```
 
 For phase3-part1 submission, please create a new Release, then you can give it a name Part1 to indicate this version is your final version of part1. After creating an release, you can continue pushing new commits and do not need to worry your new commits will influence your part1 grading.
+
 ![image](https://user-images.githubusercontent.com/6300305/152875849-ed6f8491-bcb9-468e-8fca-626732aa06e6.png)
 ![image](https://user-images.githubusercontent.com/6300305/152875944-c2c4df84-e445-4ce3-be75-3e6a342ff8ef.png)
 
