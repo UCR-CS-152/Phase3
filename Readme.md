@@ -57,7 +57,7 @@ git commit -m "phase1 submission"  # make a commit for your changes
 git push   # push all local commits to Github, this step may need your username and password of Github
 ```
 
-For phase3-part1 submission, please create a new Release, then you can give it a name Part1 to indicate this version is your final version of part1. After creating an release, you can continue pushing new commits and do not need to worry your new commits will influence your part1 grading.
+For phase3-part1 submission, please create a new Release, then you can give it a name Part1 to indicate this version is your final version of part1. After creating an release, you can continue pushing new commits and do not need to worry your new commits will influence your part1 grading. For part2 submission, you can just keep your final version of code in your main branch.
 
 ![image](https://user-images.githubusercontent.com/6300305/152875849-ed6f8491-bcb9-468e-8fca-626732aa06e6.png)
 ![image](https://user-images.githubusercontent.com/6300305/152875944-c2c4df84-e445-4ce3-be75-3e6a342ff8ef.png)
